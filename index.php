@@ -1,3 +1,5 @@
 <?php
+//M - INFO
 phpinfo();
+
 ?>
