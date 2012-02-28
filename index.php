@@ -1,6 +1,7 @@
 <?php
 //M - INFO
-phpinfo();
+phpenfo();
 //SEC
 //TR
+//pika
 ?>
