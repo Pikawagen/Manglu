@@ -2,4 +2,5 @@
 //M - INFO
 phpinfo();
 //SEC
+//TR
 ?>
